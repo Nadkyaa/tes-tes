@@ -1,0 +1,14 @@
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\obj\Debug\net8.0\PBO Praktikum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\obj\Debug\net8.0\PBO Praktikum.AssemblyInfoInputs.cache
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\obj\Debug\net8.0\PBO Praktikum.AssemblyInfo.cs
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\obj\Debug\net8.0\PBO Praktikum.csproj.CoreCompileInputs.cache
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\bin\Debug\net8.0\PBO Praktikum.exe
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\bin\Debug\net8.0\PBO Praktikum.deps.json
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\bin\Debug\net8.0\PBO Praktikum.runtimeconfig.json
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\bin\Debug\net8.0\PBO Praktikum.dll
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\bin\Debug\net8.0\PBO Praktikum.pdb
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\obj\Debug\net8.0\PBO Praktikum.dll
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\obj\Debug\net8.0\refint\PBO Praktikum.dll
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\obj\Debug\net8.0\PBO Praktikum.pdb
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\obj\Debug\net8.0\PBO Praktikum.genruntimeconfig.cache
+E:\Kuliah UNEJ'24 2\PBO\PBO Praktikum\PBO Praktikum\obj\Debug\net8.0\ref\PBO Praktikum.dll
